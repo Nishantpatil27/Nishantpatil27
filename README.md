@@ -1,3 +1,6 @@
+
+<img src="https://github.com/user-attachments/assets/a40e3df3-d920-4502-bcec-b896965233fe" align="right"  width="100%" height="30%">  
+
 <h1 align="center">Hi 👋, I'm Nishant Patil</h1>
 
 
