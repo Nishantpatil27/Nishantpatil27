@@ -1,8 +1,9 @@
 
-<img src="https://github.com/user-attachments/assets/a40e3df3-d920-4502-bcec-b896965233fe" align="right"  width="100%" height="30%">  
+# 
+<img src="https://github.com/user-attachments/assets/5a1d0ca0-f671-41f4-91de-5b5731b8e44e" align="right"  width="100%" height="30%">  
 
-<h1 align="center">Hi 👋, I'm Nishant Patil</h1>
 
+ 
 
 # 💫 About Me:
 Hi, I am Nishant, a motivated and detail-oriented professional in Data Analytics with a strong background in data analytics, statistics and problem solving. My goal is to uncover insights from complex datasets, with skills in tools like Power BI, SQL and Excel. I have gained the polish from my academic projects to clean, analyze and further interpret this. I am eager to work on growth in a dynamic organization. I am good at stepping into the world and my skills.
